@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_project"]=self["webpackChunkvue_project"]||[]).push([[467],{8467:function(e,u,n){n.r(u),n.d(u,{default:function(){return i}});var t=function(){var e=this,u=e._self._c;return u("div",[e._v("团购")])},r=[],c={},f=c,l=n(1001),s=(0,l.Z)(f,t,r,!1,null,"2b1f8dd4",null),i=s.exports}}]);
